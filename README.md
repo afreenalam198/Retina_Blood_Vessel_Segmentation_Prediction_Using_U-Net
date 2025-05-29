@@ -25,9 +25,9 @@ diagnosing retinal vascular diseases.
 
 ## Models -
 
-U-Net 2 Layers 
-U-Net 3 Layers 
-U-Net 4 Layers 
+U-Net 2 Layers  
+U-Net 3 Layers  
+U-Net 4 Layers  
 
 ## Dataset Preprocessing -
 
